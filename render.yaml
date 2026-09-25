@@ -2,7 +2,7 @@ services:
   - type: web
     name: habit-tracker-expo-web
     env: static
-    buildCommand: npx expo export
+    buildCommand: npx expo export --platform web
     staticPublishPath: ./dist
     envVars:
       - key: NODE_VERSION
