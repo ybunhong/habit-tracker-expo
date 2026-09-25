@@ -7,6 +7,10 @@
     "icon": "./assets/images/icon.png",
     "scheme": "habittrackerexpo",
     "userInterfaceStyle": "automatic",
+    "extra": {
+      "supabaseUrl": "https://qhutcifthdmtcpuzqulb.supabase.co",
+      "supabaseAnonKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFodXRjaWZ0aGRtdGNwdXpxdWxiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAxNjQ5NzQsImV4cCI6MjEwNTc0MDk3NH0.4FhYDmZYdrLKTikEEJKyyhs8XCMT2yeW2LXN9KKAAdw"
+    },
     "ios": {
       "icon": "./assets/expo.icon"
     },
